@@ -1,8 +1,8 @@
 # Munkres assignment algorithm
 
-## Algorithm - 
-## Interface - 
-## Plots - 
+ Algorithm - 
+ Interface - 
+ Plots - 
 
 ### External links:
 
