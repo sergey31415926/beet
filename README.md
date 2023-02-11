@@ -2,7 +2,7 @@
 
  Algorithm - 
  Interface - 
- Plots - 
+ Plot - 
 
 ### External links:
 
